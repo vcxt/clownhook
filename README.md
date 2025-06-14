@@ -17,4 +17,8 @@ tool for spamming discord webhooks with optional options such as deleteting the 
    pip install -r requirements.txt
 3. run main.py using
    ```bash
-   python3 main.py
+   python main.py
+
+## OR
+
+Install a pre-built version of the exact same python file, skipping the installation of requirements.
