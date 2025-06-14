@@ -4,6 +4,11 @@ tool for spamming discord webhooks with optional options such as deleteting the 
 
 ## features
 - ability to delete webhooks.
+- send a singular message
+- spam webhooks (custom delay)
+- get webhook information
+- change avatar icon
+- rename webhook
 
 ## how to Use
 1. download `main.py` and `requirements.txt`.
