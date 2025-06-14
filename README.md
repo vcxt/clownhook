@@ -1,6 +1,6 @@
 # clownhook
 
-tool for spamming discord webhooks with optional options such as deleteting the webhook.
+tool for spamming discord webhooks with optional options.
 
 ## features
 - ability to delete webhooks.
