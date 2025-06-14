@@ -1,4 +1,4 @@
-# discord webhook spammer
+# clownhook
 
 tool for spamming discord webhooks with optional options such as deleteting the webhook.
 
